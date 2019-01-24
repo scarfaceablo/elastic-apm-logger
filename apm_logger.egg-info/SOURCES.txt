@@ -1,0 +1,8 @@
+README.md
+setup.py
+apm_logger/__init__.py
+apm_logger.egg-info/PKG-INFO
+apm_logger.egg-info/SOURCES.txt
+apm_logger.egg-info/dependency_links.txt
+apm_logger.egg-info/not-zip-safe
+apm_logger.egg-info/top_level.txt

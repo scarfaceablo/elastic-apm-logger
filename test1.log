@@ -1,0 +1,12 @@
+2019-01-23 10:19:31,103 INFO Time for: standalone_function is 0.501594066619873 seconds
+2019-01-23 10:19:31,604 INFO Time for: standalone_function_named_true is 0.5009524822235107 seconds
+2019-01-23 10:19:31,604 INFO script started
+2019-01-23 10:19:31,608 ERROR integer error 
+2019-01-23 10:19:31,609 INFO Time for: from_class is 0.0001773834228515625 seconds
+2019-01-23 10:19:31,610 INFO Time for: from_class_named_true is 0.0001461505889892578 seconds
+2019-01-23 10:22:40,696 INFO Time for: standalone_function is 0.5021541118621826 seconds
+2019-01-23 10:22:41,197 INFO Time for: standalone_function_named_true is 0.5009548664093018 seconds
+2019-01-23 10:22:41,197 INFO script started
+2019-01-23 10:22:41,200 ERROR integer error 
+2019-01-23 10:22:41,202 INFO Time for: from_class is 0.0001628398895263672 seconds
+2019-01-23 10:22:41,202 INFO Time for: from_class_named_true is 0.00014710426330566406 seconds

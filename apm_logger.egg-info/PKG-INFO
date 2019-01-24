@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: apm-logger
+Version: 1.0
+Summary: Logging and APM elastic for ETL scripts
+Home-page: http://github.com/scarfaceablo/elastic-apm-logger
+Author: Klemen Kolesa
+Author-email: klemen.kolesa@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
